@@ -13,7 +13,7 @@ body {
 }
 
 h1 {
-  color: #1b1b32;
+  color: #ffffff;
   font-size: 25px;
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
   text-align: center;
@@ -42,7 +42,7 @@ h1 {
 .tareas-lista-principal {
   width: 600px;
   min-height: 500px;
-  background-color: #d0d0d5;
+  background-color: #47475f;
   padding: 25px;
   margin: 10px;
   border-radius: 25px;
